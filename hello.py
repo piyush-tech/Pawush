@@ -1,1 +1,2 @@
-print("Hello  World")
+x=input("enter sring")
+print(x)
